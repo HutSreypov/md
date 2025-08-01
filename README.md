@@ -86,14 +86,13 @@ http://localhost:3000/api
 ```
 ## 📮 API Endpoints
 
-| Method |  Endpoint | Description|
-|----| ------| ----| -----|
-| POST |  /api/auth/login | Login to system|
-| POST |  /api/auth/login | Login to system|
-| POST |  /api/auth/login | Login to system|
-| POST |  /api/auth/login | Login to system|
-| POST |  /api/auth/login | Login to system|
-| POST |  /api/auth/login | Login to system|
+| Method | Endpoint | Description | 
+|----|------|-----|
+| POST | /api/auth/ogin | Login to system|
+| GET | /api/students | Login to system|
+| POST | /api/students | Login to system|
+| PUT | /api/students/:id | Login to system|
+| DELETE | /api/students/:id | Login to system|
 
 
 
