@@ -86,12 +86,18 @@ http://localhost:3000/api
 ```
 ## 📮 API Endpoints
 
-| Method|Endpoint|Description|
-|POST|/api/auth/login|Login to system|
-|GET|/api/students|Login to system|
-|POST|/api/students|Login to system|
-|PUT|/api/students/:id|Login to system|
-|DELETE|/api/tudents/:id|Login to system|
+| Method |  Endpoint | Description|
+|----| ------| ----| -----|
+| POST |  /api/auth/login | Login to system|
+| POST |  /api/auth/login | Login to system|
+| POST |  /api/auth/login | Login to system|
+| POST |  /api/auth/login | Login to system|
+| POST |  /api/auth/login | Login to system|
+| POST |  /api/auth/login | Login to system|
+
+
+
+
 
 ## 🔑 Environment Variables
 
@@ -113,6 +119,8 @@ npm test        # Run test cases
 
 ## 👥 Contributors
 
+![Dashboard](./1.svg)
+
 ## 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
@@ -121,9 +129,9 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ---
 
 Let me know:
-- if your project uses MongoDB or MySQL (so I can adjust that part),
-- if you want to include screenshots or setup diagrams,
-- or if you'd like this saved as a downloadable `.md` file.
+-if your project uses MongoDB or MySQL (so I can adjust that part),
+-if you want to include screenshots or setup diagrams,
+-or if you'd like this saved as a downloadable `.md` file.
 
 ```
 
